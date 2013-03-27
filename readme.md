@@ -3,6 +3,8 @@
 
 Generate vim helpfiles from markdown
 
+## INTRODUCTION
+
 `:h help-writing` -> http://vimdoc.sourceforge.net/htmldoc/helphelp.html#help-writing
 
 ## Synopsis
